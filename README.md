@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MeSeKa
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently studying Computer Engineering at FSMVU.
 - 💞️ I’m looking to collaborate on Unity Game Projects.
 - 📫 My mail adress: mehmedsefakaratas@gmail.com
 - 👾 Here is my portfolio website, you should definitely check it out: https://sites.google.com/view/mesekara/home-page
